@@ -16,7 +16,7 @@ Gioco 3D in prima persona. Il labirinto viene generato da file CSV configurabili
 Per far funzionare correttamente il progetto, è necessario configurare l'ambiente Processing e mantenere la struttura dei file intatta per il caricamento degli asset.
 
 **1. Installare l'ambiente Processing**
-* Vai sul sito ufficiale di Processing (processing.org).
+* Vai sul sito ufficiale di [Processing](https://processing.org/).
 * Scarica e installa la versione compatibile con il tuo sistema operativo.
 
 **2. Strutturare le Cartelle (Fondamentale)**
